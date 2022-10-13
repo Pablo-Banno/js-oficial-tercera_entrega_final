@@ -1,0 +1,65 @@
+[
+	{
+		"id": 1,
+		"marca": "Kingston",
+		"imagen": "img/m2_250gb.jpg",
+		"precio": "34.99",
+		"detalles": ["M2 NVME", "Capacidad: 250 GB"]
+	},
+	{
+		"id": 2,
+		"marca": "Kingston",
+		"imagen": "img/m2_500gb.jpg",
+		"precio": "57.99",
+		"detalles": ["M2 NVME", "Capacidad: 500 GB"]
+	},
+	{
+		"id": 3,
+		"marca": "Kingston",
+		"imagen": "img/m2_1000gb.jpg",
+		"precio": "109.99",
+		"detalles": ["M2 NVME", "Capacidad: 1 TB"]
+	},
+	{
+		"id": 4,
+		"marca": "Kingston",
+		"imagen": "img/sata_240gb.jpg",
+		"precio": "20.99",
+		"detalles": ["SSD Sata", "Capacidad: 240 GB"]
+	},
+	{
+		"id": 5,
+		"marca": "Kingston",
+		"imagen": "img/sata_480gb.jpg",
+		"precio": "44.99",
+		"detalles": ["SSD Sata", "Capacidad: 480 GB"]
+	},
+	{
+		"id": 6,
+		"marca": "Kingston",
+		"imagen": "img/sata_960gb.jpg",
+		"precio": "69.99",
+		"detalles": ["SSD Sata", "Capacidad: 960 GB"]
+	},
+	{
+		"id": 7,
+		"marca": "Western Digital",
+		"imagen": "img/hdd_500gb.jpg",
+		"precio": "16.99",
+		"detalles": ["HDD Sata", "Capacidad: 500 GB"]
+	},
+	{
+		"id": 8,
+		"marca": "Western Digital",
+		"imagen": "img/hdd_1tb.jpg",
+		"precio": "39.99",
+		"detalles": ["HDD Sata", "Capacidad: 1 TB"]
+	},
+	{
+		"id": 9,
+		"marca": "Western Digital",
+		"imagen": "img/hdd_2tb.jpg",
+		"precio": "49.99",
+		"detalles": ["HDD Sata", "Capacidad: 2 TB"]
+	}
+]
